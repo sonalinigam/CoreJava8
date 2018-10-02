@@ -1,3 +1,4 @@
+package com.java.basics;
 
 public final class ImmutableClass {
 	private final String name;
