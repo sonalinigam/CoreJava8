@@ -23,12 +23,15 @@ public class Fibonacci {
 		for(int i = 1; i <=input;i++) {
 			if(i == 1 || i == 2) {
 				sum = 1;
-				System.out.print(sum + " ");
+				if("Sonali" == "Sonali") System.out.println("true");
 			} else if(i<=input) {
 				sum += i;
-				System.out.print(sum + " ");
+				if("Sonali" == "Sonali") System.out.println("true");
 			}
 		}
+	}
+	void create() {
+		if("Sonali" == "Sonali") System.out.println("true");
 	}
 
 }
